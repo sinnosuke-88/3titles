@@ -1,0 +1,17 @@
+<!-- Write code below 💖 -->
+<body>
+  <h1>私の好物のレシピ</h1>
+  <p><b>目玉焼き:</b></p>
+  <ul>
+    <li>卵　４個<br></li>
+    <li>オリーブオイル<br></li>
+    <li><i>塩</i><br></li>
+    <li>胡椒<br></li>
+    <li><i><s>砂糖</s></i></li>
+  </ul>
+  <ol>
+    <li>卵を冷蔵庫から出して用意して、割る。</li>
+    <li>中火で加熱する</li>
+    <li><u>完成</u></li>
+  </ol>
+</body>
