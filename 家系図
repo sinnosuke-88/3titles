@@ -1,0 +1,22 @@
+<!-- Write code below 💖 -->
+<!-- Family Tree 🌳 -->
+<!-- Codédex -->
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Family Tree</title>
+  </head>
+  <body>
+    <h1>伊藤家</h1>
+    <p>🏡 Hometown: SAITAMA</p>
+    <ul>
+      <li>Homer & Marge </li>
+        <ul>
+          <li>SHINNOSUKE </li>
+          <li></li>
+        </ul>
+      <li>(T)</li>
+    </ul>
+  </body>
+</html>
